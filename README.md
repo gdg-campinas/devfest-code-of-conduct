@@ -26,4 +26,5 @@ Esperamos que os participantes sigam estas regras em salas de apresentação e w
 
 ---
 
-Crédito e fonte original: https://braziljs.org/coc/
+- Em concordância com o [Anti-Harassment Policy da Google para os GDGs](https://support.google.com/developergroups/answer/3340512?hl=en&ref_topic=3340510)
+- Inspirado no https://braziljs.org/coc/
